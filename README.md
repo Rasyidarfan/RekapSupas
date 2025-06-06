@@ -1,112 +1,44 @@
-# 📋 Tabel Permasalahan dan Solusi Grup Koordinasi SUPAS2025
-**Analisis Diskusi Tanggal: 5 Juni 2025**
+# Tabel Permasalahan dan Solusi Grup Koordinasi SUPAS2025
+*Periode: 1-6 Juni 2025 (Diurutkan dari Terbaru)*
+*Mengikuti Pola: Pertanyaan (Masalah) → Jawaban (Solusi)*
 
-## 🚨 **MASALAH TEKNIS APLIKASI FASIH**
+## 📋 Catatan Penting:
+- **Template terbaru:** v0.3.6 (6 Juni 2025) - perbaikan rule fertilitas
+- **Link masukan:** http://s.bps.go.id/masukan_FASIH_SUPAS2025
+- **Deadline kritis:** 11 Juni 2025 (kickoff lapangan)
+- **Pola solusi:** Sebagian besar masalah diselesaikan dengan workaround, bukan fix permanen
 
-| No | Permasalahan | Pertama | Solusi | Status |
-|----|--------------|---------|---------|---------|
-| 1 | **Update FASIH 1.4.7 menyebabkan aplikasi tidak bisa next ke pertanyaan selanjutnya** | 10:29 | Jangan update ke versi 1.4.7, gunakan versi sebelumnya | ⚠️ Urgent |
-| 2 | **FASIH 1.4.6 ternyata juga bermasalah** | 10:32 | Hindari update ke versi terbaru sementara | ⚠️ Urgent |
-| 3 | **Saat menulis alamat, spasi hilang/terhapus** | 14:46 | Install Google Keyboard sebagai alternatif | ✅ Solved |
-| 4 | **Nama terhapus ketika klik spasi saat input keluarga baru** | 14:46 | Sabar mengetik tanpa spasi atau gunakan Google Keyboard | ✅ Solved |
-| 5 | **Pertanyaan setelah 316 tidak muncul (dropdown Prov/Kab migrasi)** | 15:33 | Pertanyaan 317 seharusnya muncul saat 316=102 atau lahir LN | 🔄 Investigation |
-| 6 | **Roster ART tidak dapat diklik, aplikasi macet** | 16:12 | Keluar dari assignment lalu masuk lagi | 🔄 Workaround |
-| 7 | **Aplikasi freeze setelah pengisian 3 ART** | 14:35 | Restart aplikasi atau keluar-masuk assignment | 🔄 Investigation |
-| 8 | **Wilayah tarik sampel offline tidak muncul tag** | 10:56 | Belum ada solusi definitif | ❌ Unresolved |
-| 9 | **Dropdown provinsi/kabkota untuk migrasi 5 th tidak muncul meski jaringan stabil** | 13:55 | Cek koneksi jaringan, restart aplikasi | 🔄 Workaround |
-| 10 | **Catatan harus tepat 20 karakter tidak boleh lebih tidak boleh kurang** | 13:55 | Batasan sistem, harus diikuti persis | ✅ Known Issue |
-| 11 | **Assignment sudah submit PPL tapi tidak muncul di PML saat unduh perubahan** | 16:18 | Uninstall dan install ulang aplikasi PML | 🔄 Workaround |
-| 12 | **Pemutakhiran tidak bisa submit** | 16:38 | Tim sudah cek, mohon dicoba lagi | ✅ Fixed |
-| 13 | **Update template bermasalah meski versi sudah update** | 16:28 | Update template dan sinkron validasi rule | 🔄 Workaround |
-| 14 | **Clear data aplikasi tidak menyelesaikan masalah** | 16:24 | Coba reinstall aplikasi | 🔄 Escalation |
+| Permasalahan (Pertanyaan) | Tanggal Waktu | Solusi (Jawaban) | Status |
+|-------------|---------------|--------|--------|
+| **🔴 BARU: Gagal tarik sampel berulang** - User kirim video/image error, "ga berhasil2 tarik sampelnya" | 6 Juni 2025, 13:16-13:30 | **💡 Solusi:** "Harus lakukan sinkronisasi ulang seluruh assignment bu. Baru muncul" + Update template v0.3.6 tersedia | ✅ Teratasi |
+| **Update Template v0.3.6** - Perbaikan rule fertilitas (342-348) dan beberapa rule lainnya | 6 Juni 2025, 10:57 | Sync template dan rule validasi di aplikasi | ✅ Tersedia |
+| **🔴 Ganti HP tetap tidak bisa next + spasi hilang** - "Uda sampe ganti hp tadi, sama aja tidak bisa next Bu. Trus setiap tulis alamat, spasi hilang" | 5 Juni 2025, 19:52 | **💡 Solusi:** "Untuk yg tulis spasi hilang bisa instal google keyboard" | ⚠️ Solusi parsial |
+| **🔴 Aplikasi freeze sementara** - Aplikasi macet di tengah penggunaan | 5 Juni 2025, 19:47 | **💡 Solusi:** "Keluar dulu dr assignmentnya terus masuk lagi lalu kembali normal" | ⚠️ Workaround |
+| **🔴 Submit pemutakhiran tidak bisa** - "bapak/ibu, yang pemutakhiran tidak bisa submit ya?" | 5 Juni 2025, 16:38 | **💡 Solusi:** "barusan di cek sama tim ya.. Mohon di cek kembali, mudah2an udah lancar" | ✅ Diperbaiki |
+| **❓ Lantai paving masuk kategori apa?** - "untuk rumah yg menggunakan paving sebagai lantai. Masuknya sebagai apa ya? Ubin atau semen?" | 5 Juni 2025, 16:45 | ❌ **Belum dijawab** | ❌ Belum teratasi |
+| **🔴 Assignment tidak muncul di PML** - "user sudah di pml, tapi di fasih pml tdk muncul assignment yg sudah submit ketika unduh perubahan assignment" | 5 Juni 2025, 16:18 | **❓ Pertanyaan:** "Apa sudah ada solusinya?" → **💡 Solusi:** Uninstall-install ulang | ⚠️ Workaround |
+| **🔴 11 Error FASIH Komprehensif** - "Fasih bebas dr permasalahan kapan ya? Ada temen2 yg me-list error fasih?" | 5 Juni 2025, 16:01-16:12 | **💡 Solusi Partial:** <br>• Spasi hilang → Install Google Keyboard<br>• Clear data untuk freeze<br>• Update template<br>• Uninstall-reinstall untuk assignment tidak muncul | ⚠️ Sebagian teratasi |
+| **🔴 3 Masalah Besar Role Playing** - AK tidak muncul list, tarik sampel tidak otomatis, ART berbeda | 5 Juni 2025, 18:38 | ❌ **Belum ada solusi**, "Mudah2an bisa segera diperbaiki sebelum tgl 11" | ❌ Belum teratasi |
+| **🔴 NIK AK berubah jadi 99..98** - "NIK nya diganti jadi 99..98 untuk kedua AK sehingga nama yang muncul 2 orang yang sama" | 5 Juni 2025, 21:57 | ❌ **Belum ada solusi** | ❌ Belum teratasi |
+| **😟 Kekhawatiran Kickoff** - "Kaya apa tgl 11 nanti 😂 kasian petugas udah medan susah aplikasi juga susah" | 5 Juni 2025, 22:10 | ❌ **Tidak ada solusi**, hanya "mohon segera dibenahi ya sm" | ❌ Belum teratasi |
 
----
+## Permasalahan dari Hari Sebelumnya (1-4 Juni):
 
-## 📊 **MASALAH VALIDASI & DATA**
+| Permasalahan (Pertanyaan) | Tanggal Waktu | Solusi (Jawaban) | Status |
+|-------------|---------------|--------|--------|
+| **🔴 Assignment tidak otomatis setelah tarik sampel** - Hasil tarik sampel tidak ter-assign otomatis ke petugas | 4 Juni 2025, 15:54-17:53 | **💡 Solusi:** "seharusnya juga sudah direct assign, langsung otomatis" + "alokasi petugas di fasih-pendataan sebelum tarik sampel" | ⚠️ Workaround |
+| **🔴 Periode pelatihan tidak muncul** - "di fasih pendataan baru ada periode MOOC tidak ada periode pelatihan" | 4 Juni 2025, 16:13 | **💡 Solusi:** "admin provinsi perlu didaftarkan" | 🔄 Dalam proses |
+| **❓ Password akun dummy berubah** - "Mohon info password akun dummy18, soalnya Training2024 tidak bisa" | 4 Juni 2025, 16:48 | **💡 Solusi:** "cb Training2025" | ✅ Teratasi |
+| **🔴 Aplikasi FASIH freeze/tidak responsif** - "Bapak ibu,kenapa aplikasi fasih seperti tidak bisa diklik ya di berbagi akun dan merk hp?" | 4 Juni 2025, 16:45 | **💡 Solusi:** Clear data, uninstall-reinstall, update template | ⚠️ Sebagian teratasi |
+| **🔴 Error validasi anak angkat** - "anak angkat kan hubungan dengan KRT-nya = anak. apakah ada kaitan validasi ke blok fertilitas?" | 4 Juni 2025, 17:00 | **💡 Respons:** "coba kirimkan ss errornya" | 🔄 Dalam investigasi |
+| **🔴 Roster ART kosong** - "roster ke3 dan ke4nya kosong (tidak ada namanya), didalam rosternya juga kosong" | 4 Juni 2025, 17:12 | **❓ Pertanyaan:** "ini stuck nya pas di blok II kah? bisa minta id assignmnetnya" | 🔄 Dalam investigasi |
+| **🔴 Offline sampling tidak muncul** - "di Kabupaten Kepulauan Aru,Maluku kok offline samplingnya tidak muncul ya?" | 4 Juni 2025, 17:39 | ❌ **Belum ada solusi** | ❌ Belum teratasi |
+| **🔴 Data sampel tidak muncul di PPL** - "Sudah dialokasi, tetapi tadi setelah tarik sampel tidak otomatis" | 4 Juni 2025, 19:33 | **💡 Solusi:** Upload penugasan lagi setelah tarik sampel | ⚠️ Workaround |
 
-| No | Permasalahan | Pertama | Solusi | Status |
-|----|--------------|---------|---------|---------|
-| 15 | **AK yang membentuk keluarga baru tidak muncul semua di list** | 18:38 | NIK diganti 99..98 menyebabkan duplikasi nama | 🔄 Investigation |
-| 16 | **2 AK kode 5 namanya sama padahal nama asli berbeda** | 18:38 | Terkait dengan issue NIK 99..98 | 🔄 Investigation |
-| 17 | **Umur KRT lebih kecil dari umur anak muncul warning** | 13:55 | Warning normal untuk validasi, tetap bisa submit | ✅ Normal |
-| 18 | **AK berkode 6 kembali jadi AK di rumah tangga induk saat jadi sampel** | 15:24 | Blok II freeze, Blok III bisa diisi lagi | 🔄 Investigation |
-| 19 | **No urut rumah tangga keluarga yang menanggung makan bertambah setiap dibuka** | 15:09 | Belum ada solusi definitif | ❌ Unresolved |
-| 20 | **Nama dibatasi 20 karakter padahal responden ada yang 30 karakter** | 16:12 | Perlu penyesuaian batasan sistem | 🔄 Review |
-| 21 | **NIK Anggota keluarga di keluarga induk dan keluarga baru berbeda** | 15:00 | Pastikan konsistensi NIK saat pemindahan | 🔄 Investigation |
+## Permasalahan Teknis Lainnya (1-3 Juni):
 
----
-
-## ⚙️ **MASALAH WORKFLOW/PROSES**
-
-| No | Permasalahan | Pertama | Solusi | Status |
-|----|--------------|---------|---------|---------|
-| 22 | **Tarik sampel tidak otomatis muncul di PPL, harus di-assign manual** | 18:38 | Harus di-assign manual oleh koordinator | 🔄 Workaround |
-| 23 | **Assignment belum approve PML tapi sudah bisa ditarik sampel** | 16:01 | Perbaikan workflow approval | 🔄 Review |
-| 24 | **PML diassign tapi approval cuma reject tanpa menu approve** | 15:31 | Cek assignment status, refresh aplikasi | 🔄 Investigation |
-| 25 | **Hasil tarik sampel ART berbeda dengan ART di pemutakhiran** | 18:38 | Perlu sinkronisasi data antara fase | 🔄 Investigation |
-| 26 | **Keluarga induk tidak bisa submit karena error meski sudah sesuai** | 14:42 | Submit keluarga tujuan dulu baru keluarga induk | 🔄 Workaround |
-| 27 | **Assignment sudah di-assign sejak Senin tapi setelah tarik sampel penugasan hilang** | 19:33 | Harus upload penugasan lagi | 🔄 Workaround |
-
----
-
-## 📖 **PERTANYAAN METODOLOGI**
-
-| No | Permasalahan | Pertama | Solusi | Status |
-|----|--------------|---------|---------|---------|
-| 28 | **Lantai paving masuk kategori ubin atau semen?** | 16:45 | Masuk kategori sesuai SOP yang berlaku | 🔄 Clarification |
-| 29 | **Industri pengolahan di rumah kemudian diantar ke rumah-rumah, apakah IYA di P327?** | 11:23 | Perlu clarifikasi dari pusat | 🔄 Pending |
-| 30 | **Batasan responden dianggap komuter, misal warung 1 menit pulang pergi** | 11:23 | Perlu definisi jelas dari manual | 🔄 Pending |
-| 31 | **Pecah KK belum menikah, nomor KK keluarga baru pakai nomor lama atau 9998?** | 10:04 | Gunakan nomor KK lama atau 9998 sesuai kondisi | 🔄 Clarification |
-| 32 | **Nikah di KUA laporkan ke Dukcapil tapi KK jadi 'kawin tak tercatat'** | 10:05 | Tetap ikuti yang tertera di KK | ✅ Clarified |
-| 33 | **Kasus BELUM SEKOLAH, MASIH SEKOLAH, TIDAK BERSEKOLAH LAGI** | 15:12 | Merujuk ke slide panduan | 🔄 Reference |
-| 34 | **Anak belum menikah tapi KK keluar resmi, tetap tambah keluarga baru?** | 10:06 | Ya, tetap ditambahkan sebagai keluarga baru | ✅ Clarified |
-| 35 | **Pecah KK karena bantuan, anak dan orangtua beda KK, perlu assignment baru?** | 09:58 | Ya, perlu ditambah assignment sebagai keluarga baru | ✅ Clarified |
-
----
-
-## 🔧 **MASALAH HARDWARE/DEVICE**
-
-| No | Permasalahan | Pertama | Solusi | Status |
-|----|--------------|---------|---------|---------|
-| 36 | **Ganti HP masih tidak bisa next, masalah sama** | 19:52 | Masalah di aplikasi bukan hardware | 🔄 Investigation |
-| 37 | **Error hanya terjadi di sebagian petugas dengan cara yang sama** | 14:51 | Coba sinkron template validasi berulang | 🔄 Workaround |
-| 38 | **Masalah hanya di satu petugas saat praktek, petugas lain tidak** | 16:27 | Kemungkinan masalah device-specific | 🔄 Investigation |
-| 39 | **Petugas lain coba di SLS lain bisa, di SLS tertentu tidak bisa** | 14:55 | Kemungkinan masalah data SLS spesifik | 🔄 Investigation |
-
----
-
-## 📋 **MASALAH MANAJEMEN & KOORDINASI**
-
-| No | Permasalahan | Pertama | Solusi | Status |
-|----|--------------|---------|---------|---------|
-| 40 | **Permintaan QnA spreadsheet untuk tracking kendala** | 15:55 | Link materi dan masukan sudah disediakan | ✅ Provided |
-| 41 | **Permintaan tuliskan pertanyaan di grup untuk kontrol** | 16:25 | Semua pertanyaan harus ditulis di grup | ✅ Agreed |
-| 42 | **Kekhawatiran aplikasi bermasalah menjelang H-5 pelaksanaan** | 19:03 | Tim pusat diminta segera perbaiki | 🔄 Escalation |
-| 43 | **Semua FASIH sepertinya bermasalah, keluhan tagging akan terulang** | 10:54 | Monitoring ketat dan backup plan | 🔄 Mitigation |
-
----
-
-## 🔄 **MASALAH SINKRONISASI & KONEKTIVITAS**
-
-| No | Permasalahan | Pertama | Solusi | Status |
-|----|--------------|---------|---------|---------|
-| 44 | **Sinkron template validasi perlu diulang-ulang** | 14:51 | Coba beberapa kali hingga berhasil | 🔄 Workaround |
-| 45 | **Assignment yang sudah submit tidak tersinkron dengan sistem** | Multiple | Restart aplikasi dan sinkron ulang | 🔄 Workaround |
-
----
-
-## 💡 **LESSON LEARNED**
-
-> *"Baru dipake buat latihan saja sudah seperti ini.... Kasian petugas udah medan susah aplikasi juga susah"*
-
-**Key Insights:**
-- Testing fase crucial sebelum implementasi lapangan
-- Backup solution harus selalu tersedia
-- Communication channel untuk real-time problem solving penting
-- Documentation semua issue untuk pembelajaran masa depan
-
----
-
-*Last Updated: 5 Juni 2025, 22:10 WIT*  
-*Total Issues Tracked: 45*  
-*Days to Go-Live: 5 hari*
+| Permasalahan (Pertanyaan) | Tanggal Waktu | Solusi (Jawaban) | Status |
+|-------------|---------------|--------|--------|
+| **🔴 Error unduh sampel** - Error saat download hasil tarik sampel | 3 Juni 2025, 15:51 | **💡 Solusi:** "sudah versi 1.1.25 mas?" + cek assignment di fasih-sm | ⚠️ Sebagian teratasi |
+| **🔴 AK kode 6 tetap galat** - "AK yg kode 6, udah ditambahkan juga d keluarga tujuan, tapi d keluarga induknya tetap terbaca sebagai galat" | 3 Juni 2025, 15:49 | **💡 Solusi:** Tambahkan di keluarga tujuan | ⚠️ Belum sepenuhnya teratasi |
+| **❓ Dropdown kabupaten komuter terbatas** - "pilihan kabupaten d 329 ttg komuter belum mncul smua kabkonya" | 3 Juni 2025, 14:39 | **💡 Penjelasan:** "Master komuter memang akan tampil kako yg feasible sesuai wilayah tempat tinggalnya" | ✅ Bukan error |
