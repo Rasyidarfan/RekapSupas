@@ -1,5 +1,6 @@
 # Tabel Permasalahan dan Solusi Grup Koordinasi SUPAS2025 - LENGKAP
 *Periode: 1-9 Juni 2025 (Diurutkan dari Terbaru)*
+*Pola: Pertanyaan (Masalah) → Jawaban (Solusi)*
 
 ## 📋 Catatan Penting:
 - **Periode survei:** Diupdate menjadi 10 Juni 2025 (bukan 11 Juni)
@@ -11,6 +12,17 @@
 
 | Permasalahan | Tanggal Waktu | Solusi | Status |
 |-------------|---------------|--------|--------|
+| **🔴 HARI PELAKSANAAN: Assignment waiting terus** - "masih waiting dari jam 13:55" + "kopinya dah habis masih aja waiting" | 10 Juni 2025, 15:27 | **💡 Saran:** "seduh lagi 😅" + "tadi pagi juga seperti itu... ditunggu aja sambil ngopi" | ❌ Masalah persisten |
+| **🔴 PPL submit tapi PML kosong** - "PPL sudah submit semua.. ketika dibuka di fasih pml.. kosong cuma ada blok 1.. ketika klik approval cm bisa reject" | 10 Juni 2025, 15:18 | ❌ **Belum ada solusi** | ❌ Belum teratasi |
+| **🔴 Status tarik sampel failed** - "berhasil tarik sampel..tp tidak muncul di pendataan..setelah saya lihat di fasih-sm status tarik sampelnya failed..kalo spt itu apakah admin bisa run?" | 10 Juni 2025, 15:08 | **💡 Coba:** Admin bisa run tapi "saya coba run sampe skarang statusnya running trus..belum berhasil.." | ❌ Belum berhasil |
+| **📢 Server FASIH bermasalah** - "FASIH lagi error ya?" - tidak bisa masuk, keluar masuk terus | 10 Juni 2025, 13:31-13:48 | **✅ Diperbaiki:** "server fasih sudah berangsur membaik. Silakan lakukan upload ulang untuk yang mengalami kendala upload/alokasi petugas" (14:41) | ✅ Diperbaiki |
+| **❓ Template laporan penyelenggaraan pelatihan** - "utk template laporan penyelenggaraan pelatihan blm ada ya di buped teknis jg gk ada.boleh mnt templatenya" | 10 Juni 2025, 10:03 | ❌ **Belum dijawab** | ❌ Belum teratasi |
+| **❓ PPL ke 2 PML berbeda** - "apakah satu PPL bisa dialokasikan ke 2 PML yang berbeda dalam 1 survei?" | 10 Juni 2025, 09:23 | **💡 Solusi:** "Di fasih bisa aja, tapi secara SOP harusnya nggak boleh" + "Secara probis harusnya di PML yg sama" | ✅ Dijelaskan |
+| **🔴 Assignment belum muncul setelah assign** - "kami sudah assign petugas tp kok belum muncul yaa? mohon solusinyaa" | 10 Juni 2025, 09:43 | **💡 Solusi:** "Masih pelatihan kali" + masih tahap pelatihan belum pendataan | ✅ Dijelaskan |
+| **🔴 Submit muter-muter persisten** - "pagi ini msh kluwe2 trus untuk latihan submit.." | 10 Juni 2025, 07:50 | ❌ **Belum ada solusi spesifik** | ❌ Masalah persisten |
+| **🔴 Sync periode error** - "klik sync periode munculna popup error itu" + muncul hanya pendataan padahal sudah assign pemutakhiran dan pendataan | 10 Juni 2025, 07:51-07:53 | **💡 Solusi:** "Silakan melakukan sync periode untuk update Periode" → "Silakan melakukan sync survei untuk update Periode" | ⚠️ Workaround |
+| **❓ Nama kepala keluarga hilang** - "kalau dari PPL sudah coba dibuka 1 KK di prelist, kemudian dia keluar, kenapa nama kepala keluarganya jadi hilang ya?" | 10 Juni 2025, 08:29 | **💡 Solusi:** "PPL itu mungkin hanya membuka saja, blm mengisikan nama kepala keluarganya bu. Maka akan terimpan kosong" + "Ini biasanya nama kepala keluarga nya kepanjangan. Klik + aja keliatan" | ✅ Dijelaskan |
+| **📢 Info rekap data prelist** - Link pengecekan sinkronisasi FASIH | 10 Juni 2025, 10:36 | **🔗 Link:** http://s.bps.go.id/Supas25_Rekap_DataPrelist | ✅ Tersedia |
 | **🔴 Direct assign pemutakhiran tidak ada daftar petugas** - "barusan saya direct assign untuk pemutakhiran, tapi daftar petugasnya gak ada, hanya muncul datanya aja" | 9 Juni 2025, 13:53 | ❌ **Belum dijawab** | ❌ Belum teratasi |
 | **🔴 FASIH sulit submit, muter-muter** - "Banyak laporan fasih yg sulit submit dari kmrn..hanya muter2..apakah ada tips mengatasinya?" | 9 Juni 2025, 07:11 | ❌ **Belum ada solusi spesifik** | ❌ Belum teratasi |
 | **❓ Link materi pelatihan tidak bisa diakses** - "link lampiran dan materi pelatihan petugas tidak bisa diakses" | 9 Juni 2025, 07:15 | **💡 Solusi:** "Sepertinya peladennya sedang terganggu. Bisa coba ke OneDrive saya" + **📢 Bahan ajar tersedia:** https://drive.bps.go.id/s/6zRMtM4nWxcKCRL | ✅ Teratasi |
@@ -56,8 +68,15 @@
 | **❓ Dropdown kabupaten komuter terbatas** - "pilihan kabupaten d 329 ttg komuter belum mncul smua kabkonya" | 3 Juni 2025, 14:39 | **💡 Penjelasan:** "Master komuter memang akan tampil kako yg feasible sesuai wilayah tempat tinggalnya" | ✅ Bukan error |
 
 ## 🔗 Link Penting:
+- **📊 BARU: Rekap Data Prelist:** http://s.bps.go.id/Supas25_Rekap_DataPrelist
 - **Bahan Ajar Pelatihan Petugas:** https://s.bps.go.id/Lampiran-SuratPersiapan-PelatihanPetugas
 - **Link Alternatif Bahan Ajar:** https://drive.bps.go.id/s/6zRMtM4nWxcKCRL
 - **OneDrive Backup (Server Terganggu):** https://1drv.ms/f/c/a7e409948bc8ad05/EgKXqU4OprpLpQqowLbrbkYBYXyZ9BrMtV8B6zlcXkF6ew
 - **Masukan FASIH:** http://s.bps.go.id/masukan_FASIH_SUPAS2025
 - **Materi Pelatihan (Link Lama):** http://s.bps.go.id/materi_adminsupas2705
+
+## 🎯 STATUS HARI PELAKSANAAN (10 JUNI 2025):
+- **Server FASIH:** Sempat down siang hari, sudah diperbaiki jam 14:41
+- **Masalah Utama:** Assignment waiting, submit muter-muter, tarik sampel failed
+- **Progress:** Sync periode/survei sudah tersedia, rekap data prelist dirilis
+- **Tantangan:** Banyak masalah teknis muncul tepat di hari pelaksanaan
