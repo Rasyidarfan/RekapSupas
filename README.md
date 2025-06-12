@@ -1,5 +1,5 @@
 # Permasalahan SUPAS2025
-*Update: 12 Juni 2025*
+*Update: 12 Juni 2025 - 19:50 WIB*
 
 ## 🔗 **Link Solusi Utama:**
 - **Rekap Data Prelist:** http://s.bps.go.id/Supas25_Rekap_DataPrelist
@@ -9,15 +9,7 @@
 - **Masukan FASIH:** http://s.bps.go.id/masukan_FASIH_SUPAS2025
 - **Laporan Pelatihan:** http://s.bps.go.id/laporan_pelatihan_SUPAS2025
 
-## 💡 **Tips Penyelesaian Berdasarkan Solusi yang Ada:**
-
-1. **Masalah Konektivitas:** Clear data, uninstall-reinstall aplikasi
-2. **Assignment Tidak Muncul:** Sync periode/survei, cek periode aktif
-3. **Spasi Hilang:** Install Google Keyboard
-4. **Data Tidak Sinkron:** Lakukan sinkronisasi ulang seluruh assignment
-5. **Aplikasi Freeze:** Keluar dari assignment, masuk lagi
-6. **Error Validasi:** Update template ke versi terbaru (v0.3.6)
-7. **Masalah Server:** Tunggu perbaikan, gunakan link backup untuk materi
+## ✅ PERMASALAHAN DENGAN SOLUSI TERSEDIA
 
 | Permasalahan | Tanggal | Solusi | Status |
 |-------------|---------|--------|--------|
@@ -39,6 +31,9 @@
 | **🔴 Submit pemutakhiran tidak bisa** | 5 Juni 2025 | **💡 Solusi:** "barusan di cek sama tim ya.. Mohon di cek kembali, mudah2an udah lancar" | ✅ Diperbaiki |
 | **🔴 Data prelist tidak sesuai DSSLS** | 11 Juni 2025 | **💡 Penjelasan:** "prelist menggunakan DTSEN dan jika data DTSEN tdk dapat dimapping sampai SLS sama sekali maka sumber data yg digunakan menggunakan data dasar BPS" + **Link cek:** http://s.bps.go.id/Supas25_Rekap_DataPrelist | ✅ Dijelaskan |
 | **🔴 Assignment double role** | 11 Juni 2025 | **💡 Solusi:** Admin kab akan difasilitasi untuk hapus assignment yang sudah submit | ✅ Akan difasilitasi |
+| **🔴 BARU: Anak kecil ikut nenek, ortu merantau** - "Kalo anak kecil ikut neneknya. Yang ada di prelist KK nenek. KK anak kecil dan ortu tidak ada di prelist. Ortu merantau. Gimana perlakuannya?" | 12 Juni 2025 | **💡 Solusi:** "anak kecil ini jadi keluarga baru di tempat neneknya, nanti baru digabung di ruta neneknya" + **Referensi:** "Pernah baca di QnA masuk sbg anggota keluarga neneknya" | ✅ Dijelaskan |
+| **📢 Penjelasan server overload** - FASIH sering error dan lambat | 12 Juni 2025 | **💡 Penjelasan:** "Submit all data dari Podes+supas+others fasih survei semua di bulan Juni... Serentak se-Indonesia raya Sepertinya server kita seharusnya sudah ngalahin server judol" | ✅ Dijelaskan |
+| **❓ Syarat menambah anggota keluarga baru** | 12 Juni 2025 | **💡 Penjelasan:** "klu nambah anggota keluarga baru harus yg sudah ada dalam kartu keluarga tapi belum masuk ke prelist" | ✅ Dijelaskan |
 
 ### 🟡 **SOLUSI PARSIAL/WORKAROUND**
 
@@ -58,3 +53,17 @@
 | **🔴 Error unduh sampel** | 3 Juni 2025 | **💡 Solusi:** "sudah versi 1.1.25 mas?" + cek assignment di fasih-sm | ⚠️ Sebagian teratasi |
 | **🔴 AK kode 6 tetap galat** | 3 Juni 2025 | **💡 Solusi:** Tambahkan di keluarga tujuan | ⚠️ Belum sepenuhnya teratasi |
 | **❓ Dropdown kabupaten komuter terbatas** | 3 Juni 2025 | **💡 Penjelasan:** "Master komuter memang akan tampil kako yg feasible sesuai wilayah tempat tinggalnya" | ✅ Bukan error |
+
+
+## 💡 **Tips Penyelesaian Berdasarkan Solusi yang Ada:**
+
+1. **Masalah Konektivitas:** Clear data, uninstall-reinstall aplikasi
+2. **Assignment Tidak Muncul:** Sync periode/survei, cek periode aktif
+3. **Spasi Hilang:** Install Google Keyboard
+4. **Data Tidak Sinkron:** Lakukan sinkronisasi ulang seluruh assignment
+5. **Aplikasi Freeze:** Keluar dari assignment, masuk lagi
+6. **Error Validasi:** Update template ke versi terbaru (v0.3.6)
+7. **Masalah Server:** Tunggu perbaikan, gunakan link backup untuk materi
+8. **🆕 Anak Ikut Nenek:** Buat keluarga baru di tempat nenek, gabungkan ke ruta nenek
+9. **🆕 Tambah Anggota Baru:** Hanya untuk yang sudah ada di KK tapi belum masuk prelist
+10. **🆕 Server Overload:** Pahami bahwa Juni adalah bulan submit semua survei BPS
